@@ -1,4 +1,4 @@
-# Columnar HEP Tutorial
+# HEP Data Analysis Tutorial with the Scientific Python Ecosystem
 
 ## Getting started
 
