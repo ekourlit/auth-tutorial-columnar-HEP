@@ -8,8 +8,8 @@ This repository provides all the resources you need to follow the tutorial.
 
 The tutorial is divided into five parts, each focusing on a key topic:
 
-1. [part-1](part-1): Introduction to Array Programming
-2. [part-2](part-2): Array Programming with Jagged Data
+1. [part-1](part-1): Introduction to Array-oriented programming
+2. [part-2](part-2): Array-oriented programming with Jagged Data
 3. [part-3](part-3): Introduction to HEP Data
 4. [part-4](part-4): Accessing and Analyzing PHYSLITE Data
 5. [part-5](part-5): Statistical Analysis
@@ -59,4 +59,4 @@ This tutorial draws extensively from materials developed for previous events in 
 * [How the Scientific Python ecosystem helps answering fundamental questions of the Universe](https://github.com/ekourlit/scipy2024-ATLAS-demo)
 * [US ATLAS / IRIS-HEP Analysis Software Training Event](https://github.com/iris-hep/us-atlas-idap-training-2024)
 
-Special thanks to the original authors and contributors: [Jim Pivarski](https://github.com/jpivarski), [Matthew Feickert](https://github.com/matthewfeickert), [Alexander Held](https://github.com/alexander-held), and [Gordon Watts](https://github.com/gordonwatts).
+Special thanks to the original authors and contributors: [Jim Pivarski](https://github.com/jpivarski), [Matthew Feickert](https://github.com/matthewfeickert), [Alexander Held](https://github.com/alexander-held), [Gordon Watts](https://github.com/gordonwatts) and [Mariana Vivas](https://github.com/marianaiv).
