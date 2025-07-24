@@ -1,6 +1,6 @@
 # HEP Data Analysis Tutorial with the Scientific Python Ecosystem
 
-Welcome to the repository for the HEP (High Energy Physics) Data Analysis Tutorial, held on Wednesday, June 4th, 2025, within the module of Advanced Studies in Experimental Data Analysis Methods as part of the Graduate Studies in SubAtomic Physics and Technological Applications in the Physics Department at Aristotle University of Thessaloniki.
+Welcome to the repository for the HEP (High Energy Physics) Data Analysis Tutorial, held on Wednesday, June 4th, 2025, within the module of Advanced Studies in Experimental Data Analysis Methods as part of the [Graduate Studies in SubAtomic Physics and Technological Applications](http://subatomic.physics.auth.gr/) in the [Physics Department](https://www.physics.auth.gr/en) at [Aristotle University of Thessaloniki](https://www.auth.gr/en/homepage/).
 
 This repository provides all the resources you need to follow the tutorial.
 
